@@ -1,8 +1,7 @@
-
+learning from the author's work
+Thanks.
 
 Example of network fine-tuning in pytorch for the kaggle competition [Dogs vs. Cats Redux: Kernels Edition](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/)
-
-Currently #27 (`0.05074`) on the [leaderboard](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/leaderboard). 
 
 ## Data prep work
 
@@ -34,5 +33,3 @@ Currently #27 (`0.05074`) on the [leaderboard](https://www.kaggle.com/c/dogs-vs-
     echo dog*.jpg | xargs mv -t dog
 ```
 
-
-[See also](https://github.com/pytorch/examples)
