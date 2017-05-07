@@ -1,4 +1,5 @@
-learning from the author's work
+Learning from the author's work
+
 Thanks.
 
 Example of network fine-tuning in pytorch for the kaggle competition [Dogs vs. Cats Redux: Kernels Edition](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/)
